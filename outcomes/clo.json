@@ -1,0 +1,12 @@
+[
+  { "id": "CLO #1", "outcome": "Understand the fundamentals of the Python programming language" },
+  { "id": "CLO #2", "outcome": "Write syntactically and semantically correct Python programs" },
+  { "id": "CLO #3", "outcome": "Create Python Desktop and Web applications" },
+  { "id": "CLO #4", "outcome": "Analyze program requirements and design solutions using Python" },
+  { "id": "CLO #5", "outcome": "Debug and test Python programs to ensure correctness" },
+  { "id": "CLO #6", "outcome": "Utilize Python libraries and frameworks for application development" },
+  { "id": "CLO #7", "outcome": "Apply object-oriented programming principles in Python" },
+  { "id": "CLO #8", "outcome": "Implement data structures and algorithms using Python" },
+  { "id": "CLO #9", "outcome": "Work with databases and APIs in Python applications" },
+  { "id": "CLO #10", "outcome": "Collaborate on software development projects using version control systems" }
+]

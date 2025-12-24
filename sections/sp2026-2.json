@@ -1,0 +1,32 @@
+{ 
+  "canvas": {
+    "server": "https://sdccd.instructure.com",
+    "coursePath": "/courses/2497518"
+  },
+  "sectionNumber": "22976",
+  "courseId": "CSIT-175 (22976)",
+  "term": "Spring 2026 8W2",
+    "dates": {
+    "start": "2026-04-06",
+    "end": "2026-06-01",
+    "withdraw": "",
+    "classesEnd": "",
+    "finals": "",
+    "finalsEnd": "",
+    "gradesDue": "",
+    "gradesPosted": "",
+    "holidays": {
+      "mlkDay": "2026-01-19",
+      "springBreak": {
+        "start": "",
+        "end": ""
+      },
+      "memorialDay": "2026-05-25"
+    }
+  },
+  "schedule": {
+    "day": "Online",
+    "time": "",
+    "location": "web"
+  }
+}
