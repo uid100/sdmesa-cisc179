@@ -75,6 +75,7 @@
       "03-iteration": {
         "title": "Module 3 - Repetitive Processing",
         "pages": {
+          "overview": { "title": "Repetition Structures","type": "content","source": "/content/03/overview03.html"},
           "page1": { "title": "Loops","type": "content","source": "/content/03/lesson1/page1.html"},
           "page2": { "title": "Loop Control", "type": "content", "source": "/content/03/lesson1/page2.html"},
           "end": { "title": "End of Module 3: Repetitive Processing", "type": "content", "source": "/content/end-module.html"}
