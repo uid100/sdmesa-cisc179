@@ -106,51 +106,52 @@
         }
       },
       "07-files": {
-        "title": "Module 7 - File Handling",
+        "title": "Module 7 - File IO and Exception Handling",
         "pages": {
           "page1": { "title": "File I/O","type": "content","source": "content/modules/07-files/lesson1/page1.html"},
           "page2": { "title": "Working with Files", "type": "content", "source": "content/modules/07-files/lesson1/page2.html"},
-          "end": { "title": "End of Module 7: File Handling", "type": "content", "source": "/content/end-module.html"}
+          "page3": { "title": "Exceptions","type": "content","source": "content/modules/08-exceptions/lesson1/page1.html"},
+          "page4": { "title": "Handling Exceptions", "type": "content", "source": "content/modules/08-exceptions/lesson1/page2.html"},
+          "end": { "title": "End of Module 7: File IO and Exception Handling", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "08-exceptions": {
-        "title": "Module 8 - Exception Handling",
+      "08-dictionaries": {
+        "title": "Module 8 - Advanced Data Structures",
         "pages": {
-          "page1": { "title": "Exceptions","type": "content","source": "content/modules/08-exceptions/lesson1/page1.html"},
-          "page2": { "title": "Handling Exceptions", "type": "content", "source": "content/modules/08-exceptions/lesson1/page2.html"},
-          "end": { "title": "End of Module 8: Exception Handling", "type": "content", "source": "/content/end-module.html"}
-        }
-      },
-      "09-dictionaries": {
-        "title": "Module 9 - Advanced Data Structures",
-        "pages": {
-          "overview": { "title": "Data Structures","type": "content","source": "content/modules/09-dictionaries/lesson1/page1.html"},
+          "overview": { "title": "Data Structures","type": "content","source": "content/modules/08-dictionaries/lesson1/page1.html"},
           "chapter12": { "title": "Dictionaries", "type": "content", "resource": "https://uid100.github.io/py/notes/murach2d/ch3.html"},
-          "end": { "title": "End of Module 9: Advanced Data Structures", "type": "content", "source": "/content/end-module.html"}
+          "end": { "title": "End of Module 8: Advanced Data Structures", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "10-classes": {
-        "title": "Module 10 - Object-Oriented Programming",
+      "09-classes": {
+        "title": "Module 9 - Object-Oriented Programming",
         "pages": {
-          "page1": { "title": "Classes and Objects","type": "content","source": "content/modules/10-classes/lesson1/page1.html"},
-          "page2": { "title": "Methods and Attributes", "type": "content", "source": "content/modules/10-classes/lesson1/page2.html"},
-          "end": { "title": "End of Module 10: Object-Oriented Programming", "type": "content", "source": "/content/end-module.html"}
+          "page1": { "title": "Classes and Objects","type": "content","source": "content/modules/09-classes/lesson1/page1.html"},
+          "page2": { "title": "Methods and Attributes", "type": "content", "source": "content/modules/09-classes/lesson1/page2.html"},
+          "end": { "title": "End of Module 9: Object-Oriented Programming", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "11-inheritance": {
-        "title": "Module 11 - Inheritance and Polymorphism",
+      "10-inheritance": {
+        "title": "Module 10 - Inheritance and Polymorphism",
         "pages": {
-          "page1": { "title": "Inheritance","type": "content","source": "content/modules/11-inheritance/lesson1/page1.html"},
-          "page2": { "title": "Polymorphism", "type": "content", "source": "content/modules/11-inheritance/lesson1/page2.html"},
-          "end": { "title": "End of Module 11: Inheritance and Polymorphism", "type": "content", "source": "/content/end-module.html"}
+          "page1": { "title": "Inheritance","type": "content","source": "content/modules/10-inheritance/lesson1/page1.html"},
+          "page2": { "title": "Polymorphism", "type": "content", "source": "content/modules/10-inheritance/lesson1/page2.html"},
+          "end": { "title": "End of Module 10: Inheritance and Polymorphism", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "12-webapps": {
-        "title": "Module 12 - Web Applications",
+      "11-webapps": {
+        "title": "Module 11 - Web Applications",
         "pages": {
-          "page1": { "title": "Web Frameworks","type": "content","source": "content/modules/12-webapps/lesson1/page1.html"},
-          "page2": { "title": "Building Web Apps", "type": "content", "source": "content/modules/12-webapps/lesson1/page2.html"},
-          "end": { "title": "End of Module 12: Web Applications", "type": "content", "source": "/content/end-module.html"}
+          "page1": { "title": "Web Frameworks","type": "content","source": "content/modules/11-webapps/lesson1/page1.html"},
+          "page2": { "title": "Building Web Apps", "type": "content", "source": "content/modules/11-webapps/lesson1/page2.html"},
+          "end": { "title": "End of Module 11: Web Applications", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "12-wrapup": {
+        "title": "Module 12 - Course Wrap-Up",
+        "pages": {
+          "page1": { "title": "Review and Next Steps","type": "content","source": "content/modules/12-wrapup/lesson1/page1.html"},
+          "end": { "title": "End of Course", "type": "content", "source": "/content/end-module.html"}
         }
       }
     }
