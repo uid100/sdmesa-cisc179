@@ -31,7 +31,7 @@
   "textbook": "materials/textbook.json",
   "content": {
     "modules": {
-      "01-sequential": {
+      "01": {
         "title": "Module 1 - Sequential Processing",
         "pages": {
           "implementation-note": {
@@ -55,7 +55,7 @@
           "fragmentsBase": "https://uid100.github.io/py/01-sequential/ex/"
         }
       },
-      "02-conditional": {
+      "02": {
         "title": "Module 2 - Conditional Processing",
         "pages": {
           "announce2": { "title": "week 2", "type": "announcement", "resource": "" },
@@ -72,7 +72,7 @@
           "fragmentsBase": "https://uid100.github.io/py/02-conditional/ex/"
         }
       },
-      "03-iteration": {
+      "03": {
         "title": "Module 3 - Repetitive Processing",
         "pages": {
           "overview": { "title": "Repetition Structures","type": "content","source": "/content/03/overview03.html"},
@@ -81,7 +81,7 @@
           "end": { "title": "End of Module 3: Repetitive Processing", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "04-functions": {
+      "04": {
         "title": "Module 4 - Functions",
         "pages": {
           "overview": { "title": "Defining and Using Functions","type": "content","source": "/content/04/overview04.html"},
@@ -91,7 +91,7 @@
           "end": { "title": "End of Module 4: Functions", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "05-testing-debugging": {
+      "05": {
         "title": "Module 5 - Testing and Debugging",
         "pages": {
           "page1": { "title": "Testing","type": "content","source": "content/modules/05-testing-debugging/lesson1/page1.html"},
@@ -99,7 +99,7 @@
           "end": { "title": "End of Module 5: Testing and Debugging", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "06-collections": {
+      "06": {
         "title": "Module 6 - Collections",
         "pages": {
           "page1": { "title": "Lists","type": "content","source": "content/modules/06-collections/lesson1/page1.html"},
@@ -107,7 +107,7 @@
           "end": { "title": "End of Module 6: Collections", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "07-files": {
+      "07": {
         "title": "Module 7 - File IO and Exception Handling",
         "pages": {
           "page1": { "title": "File I/O","type": "content","source": "content/modules/07-files/lesson1/page1.html"},
@@ -117,7 +117,7 @@
           "end": { "title": "End of Module 7: File IO and Exception Handling", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "08-dictionaries": {
+      "08": {
         "title": "Module 8 - Advanced Data Structures",
         "pages": {
           "overview": { "title": "Data Structures","type": "content","source": "content/modules/08-dictionaries/lesson1/page1.html"},
@@ -125,7 +125,7 @@
           "end": { "title": "End of Module 8: Advanced Data Structures", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "09-classes": {
+      "09": {
         "title": "Module 9 - Object-Oriented Programming",
         "pages": {
           "page1": { "title": "Classes and Objects","type": "content","source": "content/modules/09-classes/lesson1/page1.html"},
@@ -133,7 +133,7 @@
           "end": { "title": "End of Module 9: Object-Oriented Programming", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "10-inheritance": {
+      "10": {
         "title": "Module 10 - Inheritance and Polymorphism",
         "pages": {
           "page1": { "title": "Inheritance","type": "content","source": "content/modules/10-inheritance/lesson1/page1.html"},
@@ -141,7 +141,7 @@
           "end": { "title": "End of Module 10: Inheritance and Polymorphism", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "11-webapps": {
+      "11": {
         "title": "Module 11 - Web Applications",
         "pages": {
           "page1": { "title": "Web Frameworks","type": "content","source": "content/modules/11-webapps/lesson1/page1.html"},
@@ -149,11 +149,18 @@
           "end": { "title": "End of Module 11: Web Applications", "type": "content", "source": "/content/end-module.html"}
         }
       },
-      "12-wrapup": {
+      "12": {
         "title": "Module 12 - Course Wrap-Up",
         "pages": {
           "page1": { "title": "Review and Next Steps","type": "content","source": "content/modules/12-wrapup/lesson1/page1.html"},
           "end": { "title": "End of Course", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "99": {
+        "title": "Resources",
+        "pages": {
+          "f-strings": { "title": "F-strings", "type": "content", "source": "/content/99/f-strings.html" },
+          "faq": { "title": "FAQ", "type": "content", "source": "/content/99/faq.html" }
         }
       }
     }
