@@ -63,6 +63,7 @@
           "chapter3": { "title": "Boolean Logic", "type": "content", "resource": "https://uid100.github.io/py/notes/murach2d/ch3.html"},
           "interpreter": { "title": "The Python Interpreter", "type": "content", "resource": "https://uid100.github.io/py/content/python-interpreter.html" },
           "directive": { "title": "The Interpreter Directive", "type": "content", "resource": "https://uid100.github.io/py/content/interpreter-directive.html" },
+          "test-data": { "title": "Creating Test Data", "type": "content", "resource": "https://uid100.github.io/py/02-conditional/test-data.html" },
           "demo-code": { "title": "Demo Code Examples", "type": "content", "resource": "https://uid100.github.io/py/02-conditional/demo-code-decisions.html"},
           "end": { "title": "End of Module 2: Conditional Processing", "type": "content", "source": "/content/end-module.html"}
         },
