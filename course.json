@@ -77,6 +77,7 @@
         "title": "Module 3 - Repetitive Processing",
         "pages": {
           "overview": { "title": "Repetition Structures","type": "content","source": "/content/03/overview03.html"},
+          "constructs": { "title": "Loop Constructs","type": "content","resource": "https://uid100.github.io/edu-core/shared/constructs.html"},
           "self-documenting": { "title": "Documenting Code","type": "content","resource": "https://uid100.github.io/edu-core/shared/self-documenting-code.html"},
           "page2": { "title": "Loop Control", "type": "content", "source": "/content/03/lesson1/page2.html"},
           "end": { "title": "End of Module 3: Repetitive Processing", "type": "content", "source": "/content/end-module.html"}
