@@ -81,7 +81,7 @@
           "constructs": { "title": "Constructs - Review","type": "content","resource": "https://uid100.github.io/edu-core/shared/constructs.html"},
           "magic-numbers": { "title": "Unnamed Constants - Magic Numbers","type": "content","resource": "https://uid100.github.io/edu-core/shared/magic-numbers.html"},
           "self-documenting": { "title": "Documenting Code","type": "content","resource": "https://uid100.github.io/edu-core/shared/self-documenting-code.html"},
-          "page2": { "title": "Loop Control", "type": "content", "source": "/content/03/lesson1/page2.html"},
+          "demo": { "title": "Sample Code", "type": "content", "resource": "https://uid100.github.io/py/03-iteration/sample_code.html"},
           "end": { "title": "End of Module 3: Repetitive Processing", "type": "content", "source": "/content/end-module.html"}
         }
       },
