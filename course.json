@@ -83,16 +83,26 @@
           "self-documenting": { "title": "Documenting Code","type": "content","resource": "https://uid100.github.io/edu-core/shared/self-documenting-code.html"},
           "demo": { "title": "Sample Code", "type": "content", "resource": "https://uid100.github.io/py/03-iteration/demo/sample_code.html"},
           "end": { "title": "End of Module 3: Repetitive Processing", "type": "content", "source": "/content/end-module.html"}
-        }
+        },
+        "lab": {
+            "title": "Lab #3 - Repetitive Processing",
+            "taskListUrl": "https://uid100.github.io/py/03-iteration/ex/task-list.json",
+            "fragmentsBase": "https://uid100.github.io/py/03-iteration/ex/"
+          }
       },
       "04": {
         "title": "Module 4 - Functions",
         "pages": {
           "overview": { "title": "Defining and Using Functions","type": "content","source": "/content/04/overview04.html"},
-          "page1": { "title": "Functions","type": "content","source": "/content/04-functions/lesson1/page1.html"},
-          "page2": { "title": "Function Control", "type": "content", "source": "/content/04-functions/lesson1/page2.html"},
+          "chapter4": { "title": "Functions","type": "content","resource": "https://uid100.github.io/py/notes/murach2d/ch4.html"},
+          "modular": { "title": "Writing Modular Code","type": "content","source": "content/04/modular.html"},
           "pycache": { "title": "Understanding __pycache__","type": "content","resource": "https://uid100.github.io/py/content/bytecode.html"},
           "end": { "title": "End of Module 4: Functions", "type": "content", "source": "/content/end-module.html"}
+        },
+        "lab": {
+          "title": "Lab #4 - Functions",
+          "taskListUrl": "https://uid100.github.io/py/04-functions/ex/task-list.json",
+          "fragmentsBase": "https://uid100.github.io/py/04-functions/ex/"
         }
       },
       "05": {
