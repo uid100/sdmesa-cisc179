@@ -123,9 +123,17 @@
       "06": {
         "title": "Module 6 - Collections",
         "pages": {
-          "page1": { "title": "Lists","type": "content","source": "/content/06/lesson1/page1.html"},
-          "page2": { "title": "Dictionaries", "type": "content", "source": "/content/06/lesson1/page2.html"},
+          "overview": { "title": "Data Collections","type": "content","source": "content/06/overview06.html"},
+          "fstrings": { "title": "Formatting with f-strings","type": "content","resource": "https://uid100.github.io/py/content/fstrings.html"},
+          "variables": {"title": "Variables: A Careful Review!","type": "content", "resource": "https://uid100.github.io/py/content/variables.html" },
+          "arrays": {"title": "Arrays: Intentional Collections","type": "content", "resource": "https://uid100.github.io/py/content/arrays.html" },
+          "lists": {"title": "Lists: The Python Way","type": "content", "resource": "https://uid100.github.io/py/content/lists.html" },
           "end": { "title": "End of Module 6: Collections", "type": "content", "source": "/content/end-module.html"}
+        },
+        "lab": {
+          "title": "Lab #6 - Collections",
+          "taskListUrl": "https://uid100.github.io/py/06-collections/ex/task-list.json",
+          "fragmentsBase": "https://uid100.github.io/py/06-collections/ex/"
         }
       },
       "07": {
