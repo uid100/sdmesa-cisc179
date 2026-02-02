@@ -108,10 +108,17 @@
       "05": {
         "title": "Module 5 - Testing and Debugging",
         "pages": {
-          "page1": { "title": "Testing","type": "content","source": "/content/05/lesson1/page1.html"},
+          "overview": { "title": "Software Testing","type": "content","source": "content/05/overview05.html"},
+          "stages": { "title": "Software Test - Stages","type": "content","source": "content/05/stages.html"},
           "disc-testing": { "title": "Debugging", "type": "content", "source": "/content/05/disc-testing.html"},
           "end": { "title": "End of Module 5: Testing and Debugging", "type": "content", "source": "/content/end-module.html"}
+        },
+        "lab": {
+          "title": "Lab #5 - Testing and Debugging",
+          "taskListUrl": "https://uid100.github.io/py/05-testing/ex/task-list.json",
+          "fragmentsBase": "https://uid100.github.io/py/05-testing/ex/"
         }
+
       },
       "06": {
         "title": "Module 6 - Collections",
