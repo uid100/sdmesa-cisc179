@@ -181,17 +181,25 @@
         }
       },
       "11": {
-        "title": "Module 11 - Web Applications",
+        "title": "Module 11 - Event-Driven Programming",
         "pages": {
-          "page1": { "title": "Web Frameworks","type": "content","source": "/content/11/lesson1/page1.html"},
-          "page2": { "title": "Building Web Apps", "type": "content", "source": "/content/11/lesson1/page2.html"},
+          "page1": { "title": "Web Frameworks","type": "content","source": "/content/modules/11-webapps/lesson1/page1.html"},
+          "page2": { "title": "Building Web Apps", "type": "content", "source": "/content/modules/11-webapps/lesson1/page2.html"},
           "end": { "title": "End of Module 11: Web Applications", "type": "content", "source": "/content/end-module.html"}
         }
       },
       "12": {
-        "title": "Module 12 - Course Wrap-Up",
+        "title": "Module 12 - Web Applications",
         "pages": {
-          "page1": { "title": "Review and Next Steps","type": "content","source": "/content/12/lesson1/page1.html"},
+          "page1": { "title": "Web Frameworks","type": "content","source": "/content/modules/12-webapps/lesson1/page1.html"},
+          "page2": { "title": "Building Web Apps", "type": "content", "source": "/content/modules/12-webapps/lesson1/page2.html"},
+          "end": { "title": "End of Module 12: Web Applications", "type": "content", "source": "/content/end-module.html"}
+        }
+      },
+      "13": {
+        "title": "Module 13 - Course Wrap-Up",
+        "pages": {
+          "page1": { "title": "Review and Next Steps","type": "content","source": "/content/13/lesson1/page1.html"},
           "end": { "title": "End of Course", "type": "content", "source": "/content/end-module.html"}
         }
       },
