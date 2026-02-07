@@ -139,9 +139,9 @@
       "07": {
         "title": "Module 7 - File IO and Exception Handling",
         "pages": {
-          "overview": { "title": "Data Collections","type": "content","source": "content/07/overview07.html"},
-          "filetypes": { "title": "Data Collections","type": "content","source": "content/07/filetypes.html"},
-          "exceptions": { "title": "Data Collections","type": "content","source": "content/07/exceptions.html"},
+          "overview": { "title": "File I/O and Exception Handling", "type": "content","source": "content/07/overview07.html"},
+          "filetypes": { "title": "File Types", "type": "content", "source": "content/07/filetypes.html"},
+          "exceptions": { "title": "Exceptions", "type": "content", "source": "content/07/exceptions.html"},
           "end": { "title": "End of Module 7: File IO and Exception Handling", "type": "content", "source": "/content/end-module.html"}
         },
         "lab": {
