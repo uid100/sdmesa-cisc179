@@ -153,9 +153,9 @@
       "08": {
         "title": "Module 8 - Advanced Data Structures",
         "pages": {
-          "overview": { "title": "Data Structures","type": "content","source": "/content/08/lesson1/page1.html"},
+          "overview": { "title": "Dictionaries","type": "content","source": "content/08/overview08.html"},
           "chapter12": { "title": "Dictionaries", "type": "content", "resource": "https://uid100.github.io/py/notes/murach2d/ch12.html"},
-          "end": { "title": "End of Module 8: Advanced Data Structures", "type": "content", "source": "/content/end-module.html"}
+          "end": { "title": "End of Module 8: Dictionaries", "type": "content", "source": "/content/end-module.html"}
         },
         "lab": {
           "title": "Lab #8 - Dictionaries",
