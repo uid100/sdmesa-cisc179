@@ -139,11 +139,15 @@
       "07": {
         "title": "Module 7 - File IO and Exception Handling",
         "pages": {
-          "page1": { "title": "File I/O","type": "content","source": "/content/07/lesson1/page1.html"},
-          "page2": { "title": "Working with Files", "type": "content", "source": "/content/07/lesson1/page2.html"},
-          "page3": { "title": "Exceptions","type": "content","source": "/content/08/lesson1/page1.html"},
-          "page4": { "title": "Handling Exceptions", "type": "content", "source": "/content/08/lesson1/page2.html"},
+          "overview": { "title": "Data Collections","type": "content","source": "content/07/overview07.html"},
+          "disc-filetypes": { "title": "Data Collections","type": "content","source": "content/07/filetypes.html"},
+          "exceptions": { "title": "Data Collections","type": "content","source": "content/07/exceptions.html"},
           "end": { "title": "End of Module 7: File IO and Exception Handling", "type": "content", "source": "/content/end-module.html"}
+        },
+        "lab": {
+          "title": "Lab #7 - File IO and Exception Handling",
+          "taskListUrl": "https://uid100.github.io/py/07-files/ex/task-list.json",
+          "fragmentsBase": "https://uid100.github.io/py/07-files/ex/"
         }
       },
       "08": {

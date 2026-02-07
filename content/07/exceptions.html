@@ -1,0 +1,61 @@
+<div class="card">
+    <div class="card-header">
+        Exceptions and Exception Handling
+    </div>
+    <div class="card-body" id="files" style="padding: 20px;">
+        <p>An exception in programming refers to an event that disrupts the normal flow of a program's instructions during its execution. It typically occurs when an error or unexpected condition arises that prevents the program from continuing its operation as expected.</p>
+        <p>Exception handling mechanisms allow programmers to anticipate and gracefully deal with such errors, providing alternative paths for the program to follow when exceptions occur. This helps in maintaining program stability and robustness, as well as improving user experience by providing informative error messages.</p>
+        <h3><em>Controlled</em> Execution</h3>
+        <p>In this study of Python, we began by considering sequential instructions, giving the computer step-by-step instructions to complete <em>simple</em> tasks. We expanded the discussion add conditional branching and iteration using for and while loops before discussing modularization and moving blocks of code to functions to make our code more robust, readable, and reusable.</p>
+        <p>You have seen how exceptions can occur, and if left <em>unhandled</em> will interrupt program execution.</p>
+        <p>In this chapter we will investigate ways to enable the program to recognize when an exception occurs, and to continue to run or recover from an error instead of just halting execution.</p>
+        <h3>Try-Except-Finally</h3>
+        <p>In Python, the <code>try</code> statement is used to enclose the code that might raise an exception. The <code>except</code> block is used to handle the exception, providing a fallback mechanism to deal with errors. The <code>finally</code> block is optional and is always executed whether an exception occurs or not. It's typically used for cleanup actions.</p>
+        <p>Example:</p>
+        <pre><code>
+try:
+    # Code that might raise an exception
+    result = 10 / 0
+except ZeroDivisionError:
+    # Handling a specific exception
+    print("Division by zero error!")
+finally:
+    # Cleanup code
+    print("Execution completed.")
+    </code></pre>
+        <h2>Handling Single Exception</h2>
+        <p>You can handle a specific exception type using a single <code>except</code> block. This block will only catch the specified exception.</p>
+        <p>Example:</p>
+        <pre><code>
+try:
+    # Code that might raise an exception
+    file = open("nonexistent_file.txt", "r")
+except FileNotFoundError:
+    # Handling a specific exception
+    print("File not found error!")
+    </code></pre>
+        <h2>Handling Multiple Exceptions</h2>
+        <p>You can handle multiple exception types using multiple <code>except</code> blocks or a single <code>except</code> block with multiple exception types listed.</p>
+        <p>Example using multiple <code>except</code> blocks:</p>
+        <pre><code>
+try:
+    # Code that might raise an exception
+    result = 10 / 0
+except ZeroDivisionError:
+    # Handling a specific exception
+    print("Division by zero error!")
+except Exception as e:
+    # Handling other exceptions
+    print(f"An error occurred: {e}")
+    </code></pre>
+        <p>Example using a single <code>except</code> block with multiple exception types:</p>
+        <pre><code>
+try:
+    # Code that might raise an exception
+    file = open("nonexistent_file.txt", "r")
+except (FileNotFoundError, PermissionError):
+    # Handling multiple exceptions
+    print("File error occurred!")
+    </code></pre>
+    </div> <!-- card-body -->
+</div> <!-- card -->
