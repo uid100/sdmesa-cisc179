@@ -172,8 +172,8 @@
         },
         "lab": {
           "title": "Lab #9 - Object-Oriented Programming",
-          "taskListUrl": "https://uid100.github.io/py/09-oop/ex/task-list.json",
-          "fragmentsBase": "https://uid100.github.io/py/09-oop/ex/"
+          "taskListUrl": "https://uid100.github.io/py/09-classes/ex/task-list.json",
+          "fragmentsBase": "https://uid100.github.io/py/09-classes/ex/"
         }
       },
       "10": {
