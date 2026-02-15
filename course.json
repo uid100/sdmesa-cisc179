@@ -179,6 +179,7 @@
       "10": {
         "title": "Module 10 - Inheritance and Polymorphism",
         "pages": {
+          "overview": { "title": "Inheritance and Polymorphism","type": "content","source": "content/10/overview10.html"},
           "page1": { "title": "Inheritance","type": "content","source": "/content/10/lesson1/page1.html"},
           "page2": { "title": "Polymorphism", "type": "content", "source": "/content/10/lesson1/page2.html"},
           "end": { "title": "End of Module 10: Inheritance and Polymorphism", "type": "content", "source": "/content/end-module.html"}
