@@ -180,10 +180,15 @@
         "title": "Module 10 - Inheritance and Polymorphism",
         "pages": {
           "overview": { "title": "Inheritance and Polymorphism","type": "content","source": "content/10/overview10.html"},
-          "page1": { "title": "Inheritance","type": "content","source": "/content/10/lesson1/page1.html"},
-          "page2": { "title": "Polymorphism", "type": "content", "source": "/content/10/lesson1/page2.html"},
+          "objects": { "title": "Inheritance","type": "content",  "resource": "https://uid100.github.io/py/content/inheritance.html"},
           "end": { "title": "End of Module 10: Inheritance and Polymorphism", "type": "content", "source": "/content/end-module.html"}
+        },
+        "lab": {
+          "title": "Lab #10 - Inheritance and Polymorphism",
+          "taskListUrl": "https://uid100.github.io/py/10-inheritance/ex/task-list.json",
+          "fragmentsBase": "https://uid100.github.io/py/10-inheritance/ex/"
         }
+
       },
       "11": {
         "title": "Module 11 - Event-Driven Programming",
