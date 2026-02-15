@@ -162,14 +162,17 @@
           "taskListUrl": "https://uid100.github.io/py/08-dictionaries/ex/task-list.json",
           "fragmentsBase": "https://uid100.github.io/py/08-dictionaries/ex/"
         }
-
       },
       "09": {
         "title": "Module 9 - Object-Oriented Programming",
         "pages": {
-          "page1": { "title": "Classes and Objects","type": "content","source": "/content/09/lesson1/page1.html"},
-          "page2": { "title": "Methods and Attributes", "type": "content", "source": "/content/09/lesson1/page2.html"},
+          "overview": { "title": "Object-Oriented Programming","type": "content","source": "content/09/overview09.html"},
           "end": { "title": "End of Module 9: Object-Oriented Programming", "type": "content", "source": "/content/end-module.html"}
+        },
+        "lab": {
+          "title": "Lab #9 - Object-Oriented Programming",
+          "taskListUrl": "https://uid100.github.io/py/09-oop/ex/task-list.json",
+          "fragmentsBase": "https://uid100.github.io/py/09-oop/ex/"
         }
       },
       "10": {
