@@ -167,6 +167,7 @@
         "title": "Module 9 - Object-Oriented Programming",
         "pages": {
           "overview": { "title": "Object-Oriented Programming","type": "content","source": "content/09/overview09.html"},
+          "objects": { "title": "Objects and Classes","type": "content",  "resource": "https://uid100.github.io/py/objects.html"},
           "end": { "title": "End of Module 9: Object-Oriented Programming", "type": "content", "source": "/content/end-module.html"}
         },
         "lab": {
