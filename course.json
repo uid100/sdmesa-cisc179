@@ -180,7 +180,7 @@
         "title": "Module 10 - Inheritance and Polymorphism",
         "pages": {
           "overview": { "title": "Inheritance and Polymorphism","type": "content","source": "content/10/overview10.html"},
-          "objects": { "title": "Inheritance","type": "content",  "resource": "https://uid100.github.io/py/content/inheritance.html"},
+          "inheritance": { "title": "Inheritance","type": "content",  "resource": "https://uid100.github.io/py/content/inheritance.html"},
           "end": { "title": "End of Module 10: Inheritance and Polymorphism", "type": "content", "source": "/content/end-module.html"}
         },
         "lab": {
