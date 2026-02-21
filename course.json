@@ -200,7 +200,13 @@
         "pages": {
           "overview": { "title": "Web Applications","type": "content","source": "content/11/overview11.html"},
           "web-services": { "title": "Web Services","type": "content","resource": "https://uid100.github.io/edu-core/shared/web-services.html"},
+          "discussion": { "title": "Discussion: Web Services","type": "content","source": "content/11/disc-web-services.html"},
           "end": { "title": "End of Module 11: Web Applications", "type": "content", "source": "/content/end-module.html"}
+        },
+        "lab": {
+          "title": "Lab #11 - Web Applications",
+          "taskListUrl": "https://uid100.github.io/py/12-webapps/ex/task-list.json",
+          "fragmentsBase": "https://uid100.github.io/py/12-webapps/ex/"
         }
       },
       "12": {
