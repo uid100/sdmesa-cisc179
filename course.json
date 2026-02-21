@@ -212,7 +212,8 @@
       "12": {
         "title": "Module 12 - Course Wrap-Up",
         "pages": {
-          "page1": { "title": "Review and Next Steps","type": "content","source": "/content/12/lesson1/page1.html"},
+          "overview": { "title": "Wrap-Up","type": "content","source": "content/12/overview12.html"},
+          "summary": { "title": "Review and Next Steps","type": "content","resource": "https://uid100.github.io/py/13-wrap-up/summary.html"},
           "end": { "title": "End of Course", "type": "content", "source": "/content/end-module.html"}
         }
       },
