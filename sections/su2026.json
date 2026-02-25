@@ -1,0 +1,28 @@
+{ 
+  "canvas": {
+    "server": "https://sdccd.instructure.com",
+    "coursePath": "/courses/999999"
+  },
+  "sectionNumber": "999999",
+  "courseId": "CSIT-175 (999999)",
+  "term": "Summer 2026 8Wk",
+    "dates": {
+    "start": "2026-06-15",
+    "end": "2026-08-08",
+    "withdraw": "",
+    "classesEnd": "",
+    "finals": "",
+    "finalsEnd": "",
+    "gradesDue": "",
+    "gradesPosted": "",
+    "holidays": {
+      "juneteenth": "2026-06-19",
+      "independenceDay": "2026-07-03"
+    }
+  },
+  "schedule": {
+    "day": "Online",
+    "time": "",
+    "location": "web"
+  }
+}
