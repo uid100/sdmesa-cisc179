@@ -1,0 +1,79 @@
+<h2>Week 5(+)</h2>
+<p>
+    I had some good discussions this week with students working through
+    the lab assignment(s). A couple of things came up that might be helfpul
+    for others.
+</p>
+<p>
+    In Module 6 you iterated through some simple collections. In the Canvas 
+    pages, there was a detailed explanation of how arrays are built, specifically 
+    intended to help explain the idea of <em>zero-based indexing</em>. At the
+    end of that, I stated that although this explanation was all about arrays,
+    and the *why* and *how* of zero-based indexing, when we actually started 
+    writing Python examples, we were working with lists.
+</p>
+<p>
+    Lists are a more flexible data structure than arrays, but their use is 
+    much easier to understand if you understand arrays and zero-based indexing.
+</p>
+<p>
+    In some ways, lists are easier to use and more flexible than arrays, but
+    what Python does with them behind the scenes is a bit more complex.
+</p>
+<p>
+    So yes, there are some differences between arrays and lists. And I will 
+    probably continue to use the terms somewhat interchangeably. For our 
+    purposes, it's just another way of saying "an <em>enumerated</em> 
+    collection of data". 
+</p>
+<p>
+    I mention this because one of the objectives of the lab was to demonstrate 
+    how to iterate through a list of items and print each one. This is a very
+    common task, and important to understand. But there's an easier way.
+</p>
+<p>
+    Because Python lists are objects, they have built-in methods that allow 
+    you to do a lot common things with them directly. 
+</p>
+<p>
+    For example, in the lab you were asked to print a list like this::
+<pre><code>
+my_list = ["apple", "banana", "cherry"]
+i = 0
+while i &lt; len(my_list):
+    print(my_list[i], end=" ")
+    i += 1
+print()
+</code></pre>
+</p>
+<p>
+    This is a perfectly valid way to print the items in the list. But it's a
+    bit more complex than it needs to be. Try this instead:
+<pre><code>
+my_list = ["apple", "banana", "cherry"]
+print(my_list)
+</code></pre>
+<p>&nbsp;</p>
+<p>
+    This is simpler, and it does look a little different, but it
+    will produce a very similar output, and the same result. It's still important 
+    to understand how to iterate through a list and access each item, but I 
+    want to mention the shortcut now, because while you are working with other
+    collections, such as dictionaries, and lists, and other data structures, 
+    there are times you will find it useful to just print the whole thing
+    directly, which may give you a clearer picture of the data and the 
+    structure you are working with.
+</p>
+<p>
+    <code>print()</code> statements are a great tool for debugging your code.
+</p>
+<p>
+    <img
+        src="https://uid100.github.io/edu-core/images/happy_dug.png" 
+        alt="Picture of Dug from Pixar's Up, sitting and happy!" 
+        width="181" height="130"  />
+</p>
+<p>
+    &nbsp;
+</p>
+<p><em>Dan</em></p>
