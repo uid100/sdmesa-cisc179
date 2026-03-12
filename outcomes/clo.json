@@ -1,18 +1,20 @@
-[
-  { "id": "CLO  #1", "outcome": "Understand from a Python perspective the control of program flow based on the conditional evaluation of a Boolean expression." },
-  { "id": "CLO  #2", "outcome": "Use Python to provide an if...else structure as a solution to a software problem."}
-  { "id": "CLO  #3", "outcome": "Understand from a Python perspective the control of program flow with a looping structure." },
-  { "id": "CLO  #4", "outcome": "Use Python to provide a looping structure as a solution to a software problem." }
-],
-[
-  { "id": "CLO  #1", "__outcome": "Understand the fundamentals of the Python programming language" },
-  { "id": "CLO  #2", "__outcome": "Write syntactically and semantically correct Python programs" },
-  { "id": "CLO  #3", "__outcome": "Create Python Desktop and Web applications" },
-  { "id": "CLO  #4", "__outcome": "Analyze program requirements and design solutions using Python" },
-  { "id": "CLO  #5", "__outcome": "Debug and test Python programs to ensure correctness" },
-  { "id": "CLO  #6", "__outcome": "Utilize Python libraries and frameworks for application development" },
-  { "id": "CLO  #7", "__outcome": "Apply object-oriented programming principles in Python" },
-  { "id": "CLO  #8", "__outcome": "Implement data structures and algorithms using Python" },
-  { "id": "CLO  #9", "__outcome": "Work with databases and APIs in Python applications" },
-  { "id": "CLO #10", "__outcome": "Collaborate on software development projects using version control systems" }
-]
+{
+  "clos": [
+    { "id": "CLO  #1", "outcome": "Understand from a Python perspective the control of program flow based on the conditional evaluation of a Boolean expression." },
+    { "id": "CLO  #2", "outcome": "Use Python to provide an if...else structure as a solution to a software problem."}
+    { "id": "CLO  #3", "outcome": "Understand from a Python perspective the control of program flow with a looping structure." },
+    { "id": "CLO  #4", "outcome": "Use Python to provide a looping structure as a solution to a software problem." }
+  ],
+  "archive": [
+    { "id": "CLO  #1", "__outcome": "Understand the fundamentals of the Python programming language" },
+    { "id": "CLO  #2", "__outcome": "Write syntactically and semantically correct Python programs" },
+    { "id": "CLO  #3", "__outcome": "Create Python Desktop and Web applications" },
+    { "id": "CLO  #4", "__outcome": "Analyze program requirements and design solutions using Python" },
+    { "id": "CLO  #5", "__outcome": "Debug and test Python programs to ensure correctness" },
+    { "id": "CLO  #6", "__outcome": "Utilize Python libraries and frameworks for application development" },
+    { "id": "CLO  #7", "__outcome": "Apply object-oriented programming principles in Python" },
+    { "id": "CLO  #8", "__outcome": "Implement data structures and algorithms using Python" },
+    { "id": "CLO  #9", "__outcome": "Work with databases and APIs in Python applications" },
+    { "id": "CLO #10", "__outcome": "Collaborate on software development projects using version control systems" }
+  ]
+}
