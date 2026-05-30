@@ -1,10 +1,10 @@
 { 
   "canvas": {
     "server": "https://sdccd.instructure.com",
-    "coursePath": "/courses/999999"
+    "coursePath": "/courses/2502803"
   },
-  "sectionNumber": "999999",
-  "courseId": "CSIT-175 (999999)",
+  "sectionNumber": "30980",
+  "courseId": "CSIT-175 (30980)",
   "term": "Summer 2026 8Wk",
     "dates": {
     "start": "2026-06-02",
